@@ -1,1 +1,1 @@
-Readme for Shell basics task 0
+Readme forshell basics task 0
